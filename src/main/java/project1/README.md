@@ -7,7 +7,6 @@ Dodatkowo, jeśli liczba jest poza zakresem 1-7, zwracany jest odpowiedni komuni
 
 ## Przykład użycia
 
-    ```bash
     public class Main {
     public static void main(String[] args) {
         System.out.println(DayOfWeekResolver.getDayOfWeek(3));  // Output: "Wednesday"
