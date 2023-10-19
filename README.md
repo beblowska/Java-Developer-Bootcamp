@@ -25,8 +25,6 @@ Repozytorium jest zorganizowane w następujący sposób:
 
 # Autor
 
-Autor
-
 Adrianna Bebłowska - Kontakt: [adriannabeblowska@gmail.com]
 
 Dziękuję za zainteresowanie projektami! Jeśli masz pytania lub sugestie, skontaktuj się ze mną.
