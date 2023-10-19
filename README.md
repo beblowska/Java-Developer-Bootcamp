@@ -1,3 +1,5 @@
+// UNDER CONSTRUCTION //
+
 # Java Developer Bootcamp Repository - Wybrane Projekty
 
 Repozytorium to zawiera projekty, wykonen podczas bootcampu Java Developer. 
