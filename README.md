@@ -2,7 +2,7 @@
 
 # Java Developer Bootcamp Repository - Wybrane Projekty
 
-Repozytorium to zawiera projekty, wykonen podczas bootcampu Java Developer. 
+Repozytorium to zawiera projekty, wykonane podczas bootcampu Java Developer. 
 Tutaj znajdziesz projekty, które pokrywają wiele ważnych koncepcji, takich jak:
 
 1. **Programowanie obiektowe:** Znajdziesz tu projekty, które ilustrują zastosowanie koncepcji obiektowych, takie jak dziedziczenie, hermetyzacja, polimorfizm itp.
