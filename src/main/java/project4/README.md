@@ -11,7 +11,6 @@ Każdy wyjątek zwraca odpowiedni komunikat błędu.
 
 ## Przykład użycia
 
-
     PeselValidator validator = new PeselValidator();
     
     try {
