@@ -36,3 +36,9 @@ Można użyć tej klasy, aby obliczyć rachunek z opłatą serwisową, zniżką 
 ## Uwagi
 
 - Zniżka jest obliczana tylko na wartość rachunku, a nie na opłatę serwisową.
+
+## Testy jednostkowe
+
+W projekcie znajdują się również testy jednostkowe do powyższej metody.
+
+- Testy te sprawdzają poprawność działania funkcji na różnych przypadkach.
