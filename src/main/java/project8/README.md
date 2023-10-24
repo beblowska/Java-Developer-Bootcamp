@@ -7,17 +7,17 @@ Ten kod prezentuje prosty system obsługi menu pizzerii, gdzie możesz wykonywa�
 
 ## Dostepne Opcje Użycia
 
-1. **getVegetarianPizzas:** Zwraca listę nazw pizz wegetariańskich z menu.
+1. `getVegetarianPizzas:` Zwraca listę nazw pizz wegetariańskich z menu.
    
-3. **getPizzasWithCelery:** Zwraca listę nazw pizz, które zawierają składnik "celery".
+3. `getPizzasWithCelery:` Zwraca listę nazw pizz, które zawierają składnik "celery".
    
-5. **containsVegetarianPizzaWithTomatoAndPeppers:** Sprawdza, czy menu zawiera pizzę wegetariańską z składnikami "tomato" i "peppers".
+5. `containsVegetarianPizzaWithTomatoAndPeppers:` Sprawdza, czy menu zawiera pizzę wegetariańską z składnikami "tomato" i "peppers".
    
-7. **allPizzasContainMozzarella:** Sprawdza, czy wszystkie pizze na liście zawierają składnik "mozzarella".
+7. `allPizzasContainMozzarella:` Sprawdza, czy wszystkie pizze na liście zawierają składnik "mozzarella".
    
-9.  **getPizzaWithMaxCalories:** Zwraca pizzę z maksymalną liczbą kalorii.
+9.  `getPizzaWithMaxCalories:` Zwraca pizzę z maksymalną liczbą kalorii.
     
-11.  **getPizzaWithMinCalories:** Zwraca pizzę z minimalną liczbą kalorii.
+11.  `getPizzaWithMinCalories:` Zwraca pizzę z minimalną liczbą kalorii.
 
 ## Uruchomienie Programu
 
