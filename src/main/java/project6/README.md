@@ -1,10 +1,10 @@
-## Lista Generyczna
+# Lista Generyczna
 
 Ta prosta implementacja generycznej listy jest oparta na interfejsie OwnList. 
 Implementuje ona podstawowe operacje takie jak dodawanie, pobieranie, usuwanie elementów oraz zliczanie rozmiaru listy. 
 Dzięki temu można przechowywać elementy dowolnego typu w liście.
 
-# Przykład Użycia
+## Przykład Użycia
 
     public class Main {
         public static void main(String[] args) {
@@ -24,6 +24,6 @@ Dzięki temu można przechowywać elementy dowolnego typu w liście.
         }
     }
 
-# Testy Jednostkowe
+## Testy Jednostkowe
 
 Implementacja OwnList jest pokryta testami JUnit, które zapewniają poprawność działania
